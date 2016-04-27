@@ -32,7 +32,9 @@ Please make sure you download and install the following:
 3. Download class files within repository that is able to convert the authentication and database files within the root of the experiment folder into a numerical key that is unique for each sample. These database and authentication files will be generated using Audacity in the steps listed below. 
 
 ####Creating Samples
+
 **Database Samples**
+
 1. Open Audacity.
 2. Go to File > Import > Audio and select the .wav file from the heart sound files downloaded earlier in step 1.
 3. Once the file has been opened, look towards the bottom of the screen to find two fields labeled selection start and selection end/length. Make sure end is selected from the selection end/length field and make sure the time format of hh:mm:ss is selected for both fields.
